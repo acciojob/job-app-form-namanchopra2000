@@ -1,2 +1,8 @@
 
 /* Your CSS Code here. */
+input{
+	margin:5px;
+}
+select{
+	margin:5px;
+}
